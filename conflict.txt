@@ -1,1 +1,2 @@
-feat: feature-2 cập nhật file conflict
+Nội dung kiểm soát lỗi thủ công
+Nội dung do AI hỗ trợ
