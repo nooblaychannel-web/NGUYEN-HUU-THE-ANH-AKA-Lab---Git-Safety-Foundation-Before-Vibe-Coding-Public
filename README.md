@@ -2,8 +2,6 @@
 
 Repository này được tạo ra nhằm mục đích thực hành và xây dựng nền tảng sử dụng Git & GitHub an toàn, chuẩn bị cho quá trình Vibe Coding với AI.
 
-## 2. Mô tả chi tiết quá trình thực thi kho lưu trữ (Repository)
-
 ### 1. M1 - Git Basics
 Git là hệ thống quản lý phiên bản phân tán (Distributed Version Control System). Module này tập trung vào việc hiểu cách hoạt động của hệ thống và tạo dấu mốc đầu tiên cho dự án:
 * **Version Control (Quản lý phiên bản):** Hệ thống ghi lại lịch sử thay đổi của các file theo thời gian, giúp quay lại trạng thái cũ khi cần thiết.
